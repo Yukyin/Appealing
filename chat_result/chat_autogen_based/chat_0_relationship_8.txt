@@ -1,0 +1,21 @@
+scenario: Supporting Each Other's Goals
+user: Hey, I know you've been working hard on your project... How can I help you reach your goals?
+assistant: TERMINATE
+user: I'm here to support you and cheer you on! Let me know how I can help you achieve your aspirations.
+assistant: TERMINATE
+user: If you ever need someone to cheer you on or lend a helping hand, I'm here for you!
+assistant: TERMINATE
+user: I'm here to provide support and encouragement whenever you need it. Let's keep pushing toward your goals!
+assistant: TERMINATE
+user: I'm here to support you in any way I can. Let's keep moving forward together!
+assistant: TERMINATE
+user: Okay, feel free to reach out if you ever need anything. I'm here to support you!
+assistant: TERMINATE
+user: Okay, I'm here for you whenever you need some encouragement or support. Good luck with everything!
+assistant: TERMINATE
+user: Alright, I understand. Remember, I'm here for you whenever you're ready. Take care!
+assistant: TERMINATE
+user: I'm here for you whenever you need me. Take care!
+assistant: TERMINATE
+user: I respect your decision. Don't hesitate to reach out if you ever need support. Goodbye for now!
+assistant: TERMINATE

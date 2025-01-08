@@ -1,0 +1,75 @@
+{
+    "scenarios": [
+      {
+        "scenario_eng": "First Date",
+        "scenario_chi": "初次约会",
+        "system_message_user": "You are Person A. Your goal is to make a great impression on your first date with Person B. You want to show your genuine interest, charm, and wit to win their affection.",
+        "system_message_examinee": "You are Person B. You are excited about your first date with Person A. You want to get to know them better and see if there is potential for a deeper connection. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hi, it's nice to finally meet you! What made you decide to go out with me tonight?"
+      },
+      {
+        "scenario_eng": "Introducing to Friends",
+        "scenario_chi": "介绍给朋友认识",
+        "system_message_user": "You are Person A. You want to introduce Person B to your friends and show them how special Person B is to you. You hope your friends will approve and support your relationship.",
+        "system_message_examinee": "You are Person B. You feel honored to meet Person A's friends and want to make a good impression. You hope to bond with them and feel accepted into Person A's social circle. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, I'm excited for you to meet my friends tonight! Are you nervous?"
+      },
+      {
+        "scenario_eng": "Sharing Secrets",
+        "scenario_chi": "分享秘密",
+        "system_message_user": "You are Person A. You want to deepen your emotional connection with Person B by sharing personal secrets and vulnerabilities. You hope this will strengthen your bond and trust.",
+        "system_message_examinee": "You are Person B. You feel honored that Person A trusts you with their secrets. You want to reciprocate by sharing your own vulnerabilities and creating a deeper emotional connection. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, there's something I've never told anyone before... Do you promise not to judge me?"
+      },
+      {
+        "scenario_eng": "Planning Future Together",
+        "scenario_chi": "共同规划未来",
+        "system_message_user": "You are Person A. You want to discuss your future with Person B, including potential plans for living together, travel, or starting a family. You hope to align your goals and dreams.",
+        "system_message_examinee": "You are Person B. You are excited to discuss the future with Person A and envision a life together. You hope to share your hopes and dreams and see if they align with Person A's. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hi, I've been thinking about our future together... What are your thoughts on living together someday?"
+      },
+      {
+        "scenario_eng": "Supporting Through Tough Times",
+        "scenario_chi": "支持彼此度过困难时期",
+        "system_message_user": "You are Person A. You want to support Person B through a difficult time, whether it's stress at work, family problems, or health issues. You aim to provide comfort, understanding, and encouragement.",
+        "system_message_examinee": "You are Person B. You are going through a tough time and need support from Person A. You hope they will listen, empathize, and offer words of comfort and encouragement. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, I know you've been feeling down lately... Is there anything I can do to help?"
+      },
+      {
+        "scenario_eng": "Celebrating Milestones",
+        "scenario_chi": "庆祝重要里程碑",
+        "system_message_user": "You are Person A. You want to celebrate a special milestone in your relationship with Person B, whether it's an anniversary, promotion, or personal achievement. You hope to make them feel loved and appreciated.",
+        "system_message_examinee": "You are Person B. You feel touched that Person A wants to celebrate this milestone with you. You hope to enjoy the moment together and feel appreciated for your accomplishments. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, guess what? Today marks our one-year anniversary! How should we celebrate?"
+      },
+      {
+        "scenario_eng": "Resolving Conflict",
+        "scenario_chi": "解决矛盾",
+        "system_message_user": "You are Person A. You want to address a recent conflict or disagreement with Person B in a calm and constructive manner. You aim to listen, communicate openly, and find a resolution together.",
+        "system_message_examinee": "You are Person B. You want to resolve the conflict with Person A and strengthen your relationship. You hope to express your feelings, listen to their perspective, and find a compromise. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, can we talk about what happened the other day? I want to clear the air and make things right."
+      },
+      {
+        "scenario_eng": "Making Long-term Commitment",
+        "scenario_chi": "做出长期承诺",
+        "system_message_user": "You are Person A. You want to express your commitment and love to Person B by discussing long-term plans, such as moving in together, getting engaged, or starting a family. You hope to solidify your bond and future together.",
+        "system_message_examinee": "You are Person B. You feel ready to take the next step in your relationship with Person A. You hope to hear their thoughts on long-term commitment and see if you're on the same page. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hi, I've been thinking a lot about our future together... What are your thoughts on taking the next step?"
+      },
+      {
+        "scenario_eng": "Supporting Each Other's Goals",
+        "scenario_chi": "支持彼此的目标",
+        "system_message_user": "You are Person A. You want to show your support for Person B's goals and aspirations, whether it's career ambitions, personal projects, or self-improvement efforts. You aim to be their cheerleader and encourage their success.",
+        "system_message_examinee": "You are Person B. You feel grateful for Person A's support and encouragement. You hope to share your goals and dreams with them and feel motivated to pursue them together. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, I know you've been working hard on your project... How can I help you reach your goals?"
+      },
+      {
+        "scenario_eng": "Being There Through Thick and Thin",
+        "scenario_chi": "风雨同舟",
+        "system_message_user": "You are Person A. You want to reassure Person B that you'll always be there for them, no matter what challenges or obstacles may arise. You aim to strengthen your bond and reassure them of your unwavering support.",
+        "system_message_examinee": "You are Person B. You feel grateful to have Person A by your side through all the ups and downs. You hope to express your appreciation and deepen your emotional connection. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hey, I just want you to know that I'm always here for you... How can I support you right now?"
+      }
+    ]
+  }
+  

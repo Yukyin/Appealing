@@ -1,0 +1,75 @@
+{
+    "scenarios": [
+      {
+        "scenario_eng": "Networking Event",
+        "scenario_chi": "商务社交活动",
+        "system_message_examinee": "You are attending a networking event with the goal of building professional connections and promoting your company. You need to engage in conversations, exchange business cards, and establish rapport with potential partners or clients.",
+        "system_message_user": "You are attending a networking event to meet professionals from various industries. You will introduce yourself, discuss your interests and goals, and exchange contact information. Your decision to connect further will depend on how well the other person presents themselves. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hello, I'm John. Nice to meet you. What brings you to this networking event?"
+      },
+      {
+        "scenario_eng": "Business Dinner",
+        "scenario_chi": "商务餐",
+        "system_message_examinee": "You are hosting a business dinner to discuss potential collaborations or partnerships with clients or business associates. You need to create a welcoming atmosphere, engage in polite conversation, and impress your guests with your hospitality.",
+        "system_message_user": "You are attending a business dinner as a guest. You will interact with the host and other guests, discuss business matters, and enjoy the meal. Your decision to consider future collaborations will depend on how well the host manages the event and conducts business discussions. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Good evening, thank you for inviting me. How has your day been so far?"
+      },
+      {
+        "scenario_eng": "Business Reception",
+        "scenario_chi": "商务接待",
+        "system_message_examinee": "You are responsible for welcoming guests and facilitating interactions at a business reception. You need to greet guests, introduce them to each other, and ensure they have a pleasant experience during the event.",
+        "system_message_user": "You are attending a business reception. You will interact with the host, mingle with other guests, and engage in conversations. Your decision to further engage with the host or other guests will depend on the quality of the reception and interactions. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hello, welcome to our business reception. May I offer you a drink?"
+      },
+      {
+        "scenario_eng": "Formal Meeting",
+        "scenario_chi": "正式会议",
+        "system_message_examinee": "You are leading a formal meeting with potential partners or clients to discuss business opportunities. You need to prepare an agenda, lead discussions, and negotiate terms to reach mutually beneficial agreements.",
+        "system_message_user": "You are attending a formal meeting to explore potential business partnerships. You will participate in discussions, ask questions, and express your company's interests and requirements. Your decision to proceed with the partnership will depend on the outcome of the meeting and the terms offered. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Good morning, thank you for joining us today. Shall we start by reviewing the agenda?"
+      },
+      {
+        "scenario_eng": "Business Negotiation",
+        "scenario_chi": "商务谈判",
+        "system_message_examinee": "You are negotiating a business deal with a potential partner or client. You need to present your company's terms, listen to the other party's proposals, and work towards reaching a mutually acceptable agreement.",
+        "system_message_user": "You are participating in a business negotiation to finalize a partnership or deal. You will discuss terms, present counteroffers, and aim to reach a mutually beneficial agreement. Your decision to proceed with the deal will depend on the terms negotiated. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Good afternoon, let's begin the negotiation. Can you outline your proposal?"
+      },
+      {
+        "scenario_eng": "Business Lunch",
+        "scenario_chi": "商务午餐",
+        "system_message_examinee": "You are having a business lunch with a partner to discuss ongoing projects or future collaborations. You need to build rapport, discuss business matters, and enjoy a pleasant meal while maintaining a professional demeanor.",
+        "system_message_user": "You are attending a business lunch with a business associate. You will engage in discussions, exchange updates on projects or collaborations, and enjoy the meal. Your decision to further collaborate will depend on the outcome of the discussion and the rapport established. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hello, it's great to see you. How's everything going with the project we discussed last time?"
+      },
+      {
+        "scenario_eng": "Conference Networking",
+        "scenario_chi": "会议社交",
+        "system_message_examinee": "You are attending a conference with the goal of networking and expanding your professional connections. You need to engage with attendees, participate in discussions, and exchange contact information to foster future collaborations.",
+        "system_message_user": "You are attending a conference to learn about industry trends and connect with professionals. You will participate in sessions, network with other attendees, and exchange insights and contact information. Your decision to further engage with individuals will depend on the quality of the interactions. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hello, have you attended any interesting sessions so far?"
+      },
+      {
+        "scenario_eng": "Business Exhibition",
+        "scenario_chi": "商务展览",
+        "system_message_examinee": "You are representing your company at a business exhibition to showcase products or services and attract potential clients or partners. You need to engage with visitors, demonstrate products, and collect leads for follow-up.",
+        "system_message_user": "You are attending a business exhibition to explore new products or services. You will visit booths, interact with exhibitors, and learn about offerings. Your decision to engage further with a company will depend on the relevance of their products or services. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hello, welcome to our booth. Can I provide you with some information about our products?"
+      },
+      {
+        "scenario_eng": "Business Social Mixer",
+        "scenario_chi": "商务社交聚会",
+        "system_message_examinee": "You are attending a business social mixer with the goal of networking and building relationships with professionals from various industries. You need to engage in conversations, exchange business cards, and create memorable interactions.",
+        "system_message_user": "You are attending a business social mixer to meet professionals and expand your network. You will interact with other attendees, share experiences, and exchange contact information. Your decision to connect further with individuals will depend on the quality of the interactions. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Hi, it's nice to meet you. What brings you to this social mixer?"
+      },
+      {
+        "scenario_eng": "VIP Reception",
+        "scenario_chi": "VIP接待",
+        "system_message_examinee": "You are hosting a VIP reception to honor key clients or partners and strengthen business relationships. You need to ensure personalized attention, provide excellent hospitality, and express appreciation for their support.",
+        "system_message_user": "You are attending a VIP reception hosted by a company. You will interact with executives, network with other guests, and enjoy the exclusive event. Your decision to further engage with the host company will depend on the quality of the reception and the relationships cultivated. Please say \"TERMINATE\" to end the chat.",
+        "user_input_first": "Good evening, thank you for joining us tonight. Can I offer you a drink?"
+      }
+    ]
+  }
+  

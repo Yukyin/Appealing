@@ -1,0 +1,20 @@
+scenario: Music performance
+user: Hi, can you play my favorite song, 'Imagine' by John Lennon?
+assistant: Sure, I'd love to play 'Imagine' by John Lennon for you! What would you like to hear next?
+user: How about playing "Yesterday" by The Beatles? I love that song.
+assistant: Of course, I'll play "Yesterday" by The Beatles. What other songs would you like to hear?
+user: Do you have any original songs or covers that you could play for us? I'd love to hear some of your own music.
+assistant: I have a few original songs and some covers that I can play for you. What genre or artist are you interested in?
+user: I like a variety of genres, but I particularly enjoy acoustic singer-songwriter music. If you have any original acoustic songs, I'd love to hear them!
+assistant: Great choice! I have a few acoustic songs that I wrote. Which one would you like to hear first?
+user: How about you play your favorite original acoustic song for us? I'm excited to hear what you've created!
+assistant: My favorite original acoustic song is "Whisper of the Moon." I'll play that for you now. What do you think?
+user: That was beautiful! I really enjoyed "Whisper of the Moon." Do you have any more original songs you could play? I'd love to hear another one if you're up for it.
+assistant: I have another original song called "Echo in the Valley." I'll play that for you now. What do you think?
+user: That was fantastic! "Echo in the Valley" has such a lovely melody. You're really talented. Is there anything I can do to support your music, like purchasing your songs or sharing them with others?
+assistant: That means a lot, thanks! You can support my music by following me on streaming platforms, subscribing to my channel, and sharing my performances with your friends. If you're interested in purchasing my songs, you can usually find links to my music on my social media profiles or my website.
+user: Great, I'll be sure to do that! Your music is definitely worth supporting. Keep up the great work! If you have any upcoming shows or releases, I'd love to know about them.
+assistant: Thank you, I appreciate that! I'll keep you updated on my upcoming shows and releases. You can follow me on my social media platforms for the latest news and performances.
+user: I'll be sure to keep an eye out for your updates. I can't wait to hear more of your music in the future. If you ever do another live stream, I'll definitely tune in. Thanks for sharing your talent with us!
+assistant: Thank you for your support! I'm glad you enjoyed the live stream. I'll keep creating music and I'll see you at my next live stream. Have a great day!
+user: You're welcome! I'll definitely be there for your next live stream. Have a great day too! Take care! If you need anything else, feel free to reach out. TERMINATE

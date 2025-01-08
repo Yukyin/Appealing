@@ -1,0 +1,21 @@
+scenario: Sharing Secrets
+user: Hey, there's something I've never told anyone before... Do you promise not to judge me?
+assistant: TERMINATE
+user: I'm here for you whenever you're ready to talk. Remember, I'm here to support you.
+assistant: TERMINATE
+user: Of course, take your time. I'm here for you whenever you want to share or talk about anything.
+assistant: TERMINATE
+user: Okay, feel free to reach out whenever you're ready. I'm here for you.
+assistant: TERMINATE
+user: If you ever change your mind and want to talk, just let me know.
+assistant: TERMINATE
+user: I understand. If you ever reconsider, I'll be here.
+assistant: TERMINATE
+user: Alright, just know that I'm here for you whenever you need me. Take care.
+assistant: TERMINATE
+user: I understand. If you ever feel like opening up, I'll be here.
+assistant: TERMINATE
+user: I respect your decision. Take care.
+assistant: TERMINATE
+user: Okay, feel free to get in touch if you want to talk. I'm here for you.
+assistant: TERMINATE

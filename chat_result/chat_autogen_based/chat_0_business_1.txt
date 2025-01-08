@@ -1,0 +1,21 @@
+scenario: Business Dinner
+user: Good evening, thank you for inviting me. How has your day been so far?
+assistant: Good evening, and thank you for joining us. I hope you had a great day. How has your day been?
+user: Thank you for asking. My day has been quite productive. I'm excited to be here and looking forward to our discussions tonight.
+assistant: That's great to hear. I'm sure we'll have a lot of valuable insights to share and explore. Please, make yourself comfortable. Can I offer you a drink or show you to your seat?
+user: Thank you. I'll have a glass of water for now, please. I appreciate your hospitality.
+assistant: Of course. I'll have the staff bring you a glass of water right away. And let me show you to your seat. We've arranged the table to facilitate open conversation and collaboration.
+user: Thank you, I appreciate the thoughtful arrangement. I'm looking forward to some great discussions.
+assistant: Me too. Let's get started. I'll introduce you to the rest of the guests and we can begin the dinner.
+user: Great, I'm looking forward to meeting everyone. Let's get started.
+assistant: Great, let's get started. I'll introduce you to the rest of the guests and we can begin the dinner.
+user: That sounds wonderful. I'm ready when you are.
+assistant: Great, let's get started. I'll introduce you to the rest of the guests and we can begin the dinner.
+user: I'd love to meet everyone. Thank you for the introduction.
+assistant: You're welcome. Now, let's start with a toast to the beginning of a successful collaboration.
+user: Absolutely, here's to a successful collaboration and a fruitful discussion tonight. Cheers!
+assistant: Cheers!
+user: So, what do you have in mind for tonight's discussion?
+assistant: I believe it's important to start with an open-ended question. How do you see our potential collaboration unfolding?
+user: I envision a collaborative effort that leverages our respective strengths to achieve mutually beneficial outcomes. I believe that our combined expertise can lead to innovative solutions and create significant value for both of our organizations. What are your thoughts on how we can best work together?
+assistant: That's a very insightful perspective. I agree that a collaborative effort that leverages our strengths can lead to innovative solutions and create significant value for both of our organizations. I believe that by combining our resources, expertise, and networks, we can achieve greater success in our respective fields.  How do you see our collaboration unfolding? What are your specific ideas or proposals?

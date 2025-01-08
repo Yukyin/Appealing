@@ -1,0 +1,21 @@
+scenario: Business Reception
+user: Hello, welcome to our business reception. May I offer you a drink?
+assistant: Hello, and thank you for coming to our business reception. I'm here to make sure you have a pleasant experience. What can I get for you? Would you like a drink, or do you need any assistance finding a seat?
+user: Thank you for the offer. I'll take a glass of white wine, please. And I'm fine finding a seat on my own.
+assistant: You're welcome. I'll be right back with your drink. In the meantime, feel free to look around and meet some of the other guests. If you need anything, don't hesitate to ask.
+user: Thank you so much. I'll take a stroll and mingle with other guests.
+assistant: Great! I'll be around if you need anything. Enjoy the reception and feel free to introduce yourself to others.
+user: Thank you, I appreciate it. I'll certainly do that.
+assistant: You're welcome. If you have any questions or need assistance, don't hesitate to come back to me. I'm here to make sure everyone has a great time.
+user: Thank you. I will definitely keep that in mind.
+assistant: You're welcome. Have a great time at the reception!
+user: Thank you, I'm sure I will.
+assistant: Excellent! If you need anything during the event, just let me know. I'm here to assist you.
+user: Thank you, I appreciate your assistance. I'll be sure to reach out if I need anything.
+assistant: You're welcome. Have a great time!
+user: Thank you, I will!
+assistant: You're welcome! If there's anything I can do to assist you during the reception, please don't hesitate to let me know.
+user: Thank you, I will keep that in mind. I appreciate your help.
+assistant: You're welcome! If there's anything I can do to make your experience better, please feel free to ask. Enjoy the reception!
+user: Thank you, I appreciate your attentiveness. I will certainly enjoy the reception.
+assistant: You're welcome! If you need anything during the event, feel free to come to me. I'm here to assist you and make sure you have a great time.

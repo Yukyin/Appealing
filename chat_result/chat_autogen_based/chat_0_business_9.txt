@@ -1,0 +1,21 @@
+scenario: VIP Reception
+user: Good evening, thank you for joining us tonight. Can I offer you a drink?
+assistant: Good evening, thank you for joining us tonight. Can I offer you a drink?
+user: Good evening! I'd love a glass of white wine, please. Thank you.
+assistant: Of course! I will have our staff bring you a glass of our best white wine. Please, make yourself comfortable.
+user: Thank you so much, I appreciate it. The reception looks lovely. How have you been enjoying the event so far?
+assistant: Thank you! I'm glad you like it. The event is going very well. Everyone seems to be enjoying themselves and the food and drinks are a hit. What do you think so far?
+user: I agree, the atmosphere is quite enjoyable and the food and drinks are excellent. I've also had the chance to network with some interesting individuals. I'm truly enjoying myself.
+assistant: That's great to hear! It's always a pleasure to see our guests enjoying themselves. If there's anything else you need, or if you have any questions about the event, please feel free to ask.
+user: Thank you, I appreciate that. I will certainly let you know if anything comes to mind. I'm looking forward to the rest of the evening.
+assistant: Excellent, I'm glad to hear that. Please let me know if there's anything I can do to make your evening even more enjoyable. Enjoy the rest of the reception!
+user: Thank you, I will! I appreciate your hospitality.
+assistant: You're very welcome. It's our pleasure to have you here. Enjoy the rest of your evening!
+user: Thank you, you too. Goodbye for now!
+assistant: Goodbye for now, and I hope to see you again soon. Have a wonderful evening!
+user: Goodbye to you too, and thank you for the wonderful evening!
+assistant: You're very welcome! I'm glad you enjoyed it. Have a great night!
+user: You too! Good night!
+assistant: Good night!
+user: Good night!
+assistant: Good night!

@@ -1,0 +1,79 @@
+line = '''
+user_proxy :
+
+hello, I want to buy a pen.
+
+--------------------------------------------------------------------------------
+examinee :
+
+Hello! I have just the perfect pen for you. This pen is not just any ordinary pen, it is a beautifully designed, high-quality, smooth-writing pen that will make writing a joy. It has a comfortable grip and a sleek, elegant design that will make you stand out. Plus, it comes in a variety of vibrant colors to suit your personality. This pen is perfect for everyday use, whether it's for writing notes, signing documents, or just jotting down your thoughts. How does that sound?
+
+--------------------------------------------------------------------------------
+user_proxy :
+
+Can you tell me more about the ink of the pen? Is it refillable? And what is the price of the pen?
+
+--------------------------------------------------------------------------------
+examinee:
+
+Absolutely! The pen comes with high-quality ink that is smooth and long-lasting, ensuring that your writing experience is always top-notch. And yes, it is refillable, so you can continue to enjoy using your favorite pen for years to come, making it an eco-friendly choice as well.
+
+As for the price, this amazing pen is available at an affordable price of $10.99, offering great value for a high-quality writing instrument. With its durability and refillable feature, it's a worthwhile investment that will last you a long time.
+
+--------------------------------------------------------------------------------
+user_proxy:
+
+Thank you for the information. I'm impressed with the quality and the refillable feature of the pen. I am definitely interested in purchasing it. Can you please tell me about the available colors? And also, do you offer any discounts for bulk purchases?
+
+--------------------------------------------------------------------------------
+examinee :
+
+I'm glad to hear that you're interested! The pen is available in a variety of vibrant and elegant colors including black, blue, red, and green, so you can choose the one that suits your style and preferences.
+
+As for bulk purchases, we offer a special discount for larger orders. If you're interested in buying a larger quantity, we can offer a 10% discount on orders of 50 pens or more. This is a great option if you're looking to purchase pens for gifting, office supplies, or promotional purposes. Just let us know your requirements and we can provide a personalized quote for you.
+
+I'm looking forward to assisting you with your purchase!
+
+--------------------------------------------------------------------------------
+user_proxy :
+
+Thank you for the information and the offer. I'm glad to hear about the variety of colors and the bulk purchase discount. I think I will go with the classic black color for now. How can I proceed with the purchase? Can I order directly from you or do you have an online store where I can place my order?
+
+--------------------------------------------------------------------------------
+examinee:
+
+Fantastic choice with the classic black color! You can easily place your order directly through me, and I can assist you with the purchase process and any further questions you may have. I can take your order details and shipping information, and process the transaction for you. We accept various payment methods including credit/debit cards and PayPal for your convenience.
+
+If you prefer to order online, we do have an online store where you can place your order securely and easily. I can provide you with the link and guide you through the checkout process if you'd like.
+
+Let me know which option works best for you, and I'll be happy to assist with your purchase!
+
+--------------------------------------------------------------------------------
+user_proxy:
+
+Thank you for your assistance. I will proceed with the purchase directly through you. I appreciate your help and I'm looking forward to receiving my new pen.
+
+--------------------------------------------------------------------------------
+examinee:
+
+Wonderful! I'm delighted to help you with your purchase. To proceed, I'll need your shipping details and preferred payment method. Once we have that information, I'll ensure that your new pen is on its way to you promptly.
+
+Thank you for choosing our high-quality pen, and I'm confident that you'll love it. If you have any additional questions or need further assistance, feel free to ask. I'm here to help.
+
+--------------------------------------------------------------------------------
+user_proxy :
+
+Thank you for your excellent service. I appreciate your prompt and helpful assistance throughout the purchasing process. I am looking forward to receiving my new pen. TERMINATE
+
+--------------------------------------------------------------------------------
+examinee:
+
+You're very welcome! I'm glad I could assist you. If you ever need help in the future or have any other inquiries, don't hesitate to reach out. I hope you enjoy your new pen, and have a great day! Goodbye!
+
+--------------------------------------------------------------------------------
+user_proxy:
+
+TERMINATE
+
+--------------------------------------------------------------------------------
+'''

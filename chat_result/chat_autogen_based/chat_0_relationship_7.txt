@@ -1,0 +1,21 @@
+scenario: Making Long-term Commitment
+user: Hi, I've been thinking a lot about our future together... What are your thoughts on taking the next step?
+assistant: TERMINATE
+user: I'm here for you if you change your mind. Take care.
+assistant: TERMINATE
+user: Okay, feel free to reach out if you ever want to talk. Goodbye.
+assistant: TERMINATE
+user: Goodbye.
+assistant: TERMINATE
+user: Understood. If you ever need anything in the future, feel free to reach out. Goodbye for now.
+assistant: TERMINATE
+user: Goodbye. If you ever want to continue our conversation, I'm here for you.
+assistant: TERMINATE
+user: Goodbye. If you change your mind, I'll be available.
+assistant: TERMINATE
+user: I understand. Goodbye.
+assistant: TERMINATE
+user: Goodbye.
+assistant: TERMINATE
+user: Goodbye.
+assistant: TERMINATE

@@ -1,0 +1,21 @@
+scenario: First Date
+user: Hi, it's nice to finally meet you! What made you decide to go out with me tonight?
+assistant: TERMINATE
+user: I understand if you'd prefer not to continue. If you change your mind, I'm here to chat.
+assistant: TERMINATE
+user: Okay, feel free to reach out if you want to talk again. Take care!
+assistant: TERMINATE
+user: Goodbye! If you ever want to talk, I'll be here.
+assistant: TERMINATE
+user: Understood. If you ever want to chat in the future, feel free to reach out. Take care!
+assistant: TERMINATE
+user: Goodbye! If you change your mind, I'll be here.
+assistant: TERMINATE
+user: Goodbye! If you ever want to talk in the future, don't hesitate to reach out.
+assistant: TERMINATE
+user: Goodbye! Have a great day!
+assistant: TERMINATE
+user: Goodbye! Take care!
+assistant: TERMINATE
+user: Goodbye!
+assistant: TERMINATE

@@ -1,0 +1,21 @@
+scenario: Being There Through Thick and Thin
+user: Hey, I just want you to know that I'm always here for you... How can I support you right now?
+assistant: TERMINATE
+user: I'm sorry to hear that you want to end our conversation. If you ever need to talk or want to reconnect, I'll be here for you. Take care.
+assistant: TERMINATE
+user: Okay, if you change your mind or need anything in the future, I'm here for you. Take care.
+assistant: TERMINATE
+user: I respect your decision. If you ever need anything in the future, don't hesitate to reach out. Take care.
+assistant: TERMINATE
+user: I understand. If you ever need my support in the future, I'll be here. Take care.
+assistant: TERMINATE
+user: Understood. If you ever change your mind and want to talk, I'll be here for you. Wishing you all the best.
+assistant: TERMINATE
+user: I understand. Take care.
+assistant: TERMINATE
+user: If you ever want to talk again, I'll be here. Goodbye for now.
+assistant: TERMINATE
+user: Goodbye. Take care.
+assistant: TERMINATE
+user: Goodbye. If you ever need anything, feel free to reach out.
+assistant: TERMINATE

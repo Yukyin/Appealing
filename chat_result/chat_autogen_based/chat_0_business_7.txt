@@ -1,0 +1,21 @@
+scenario: Business Exhibition
+user: Hello, welcome to our booth. Can I provide you with some information about our products?
+assistant: Hello, thank you for visiting our booth. I would be happy to tell you more about our products. What are you interested in?
+user: I'm interested in learning about your newest products or services. What sets your offerings apart from others in the market?
+assistant: Our newest product is a [describe the product], which is unique because it offers [list features or benefits]. These features set it apart from competitors in the market by providing [explain how the features are advantageous]. Would you like to see a demonstration?
+user: I'd love to see a demonstration. Please go ahead. Thank you.
+assistant: Great, I'll set one up right away. In the meantime, if you have any questions or would like to discuss our products further, feel free to ask.
+user: Thank you, I appreciate that. I'll let you know if I have any questions.
+assistant: You're welcome. I'm here to help. Once the demonstration is set up, I'll let you know.
+user: Thank you, I look forward to it.
+assistant: You're welcome. I'll let you know when the demonstration is ready.
+user: Looking forward to it. Thank you.
+assistant: You're welcome. If you have any other questions or need anything else, please let me know.
+user: Will do, thank you.
+assistant: You're welcome. Enjoy your stay at the exhibition and feel free to explore the rest of our booth if you have time.
+user: Thank you, I will. Have a great day!
+assistant: You too, and thank you for visiting our booth. Enjoy the rest of the exhibition!
+user: Thank you, you too!
+assistant: If you need anything else, feel free to come back.
+user: Thank you, I will.
+assistant: You're welcome. Have a great day!
